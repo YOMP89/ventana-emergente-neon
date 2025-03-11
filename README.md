@@ -1,5 +1,7 @@
 # Proyecto: Ventana Emergente con Efecto Neon
 
+![Muestra en pantalla del proyecto](proyecto.jpg)
+
 ## Descripción General
 Este proyecto consiste en una página web interactiva donde el usuario puede ingresar un nombre en un campo de texto. Al hacer clic en el botón "Mostrar" o presionar la tecla **Enter**, el nombre aparece en una ventana emergente con un efecto neon animado. La ventana solo se puede cerrar presionando la tecla **Escape**.
 
